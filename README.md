@@ -24,7 +24,7 @@ Adds filename to staging area<br/>
 Stores changes in the staging area<br/>
 ## Git Project WorkFlow
 #### 3 parts
-Working Directory: create/edit/delete file where files are created, edited, deleted, and organized
-Staging Area: lists working directory changes
-Repository: Git stores changes as different versions
+Working Directory: create/edit/delete file where files are created, edited, deleted, and organized<br/>
+Staging Area: lists working directory changes<br/>
+Repository: Git stores changes as different versions<br/>
 
