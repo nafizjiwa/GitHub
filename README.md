@@ -4,6 +4,11 @@ A command line software to track changes made to a project.<br/>
 It records and stores project changes then allowing a programmer to reference them.<br/>
 ### Git Syntax
 git<action>
+### Git Project WorkFlow
+#### 3 parts
+`Working Directory`: create/edit/delete file where files are created, edited, deleted, and organized<br/>
+`Staging Area`: lists working directory changes<br/>
+`Repository`: Git stores changes as different versions<br/>
 ### `git status`<br/>
 The status of current commit- what is current commit, modified files, new files not tracked by Git.<br/>
 ### `git init`<br/>
@@ -22,11 +27,6 @@ Git workflow last step is a commit. A commit stores changes from the staging are
 Adds filename to staging area<br/>
 ### `git commit`<br/>
 Stores changes in the staging area<br/>
-### Git Project WorkFlow
-#### 3 parts
-`Working Directory`: create/edit/delete file where files are created, edited, deleted, and organized<br/>
-`Staging Area`: lists working directory changes<br/>
-`Repository`: Git stores changes as different versions<br/>
 ### `git commit --amend`
 Allow update of a git
 ### `git add filename_1 filename_2`
