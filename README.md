@@ -10,6 +10,8 @@ It records and stores project changes then allowing a programmer to reference th
     `Working Directory`: create/edit/delete file where files are created, edited, deleted, and organized<br/>
     `Staging Area`: lists working directory changes<br/>
     `Repository`: Git stores changes as different versions<br/>
+### `git branch`
+Checks which branch we are on
 ### `git status`<br/>
 The status of current commit- what is current commit, modified files, new files not tracked by Git.<br/>
 ### `git init`<br/>
@@ -23,7 +25,7 @@ Commit author.<br/>
 Commit date and time.<br/>
 Commit message.<br/>
 ### `git commit -m "Log message Here"`<br/>
-Git workflow last step is a commit. A commit stores changes from the staging area inside the repository<br/>
+A commit stores changes from the staging area <br/>
 ### `git add filrname`<br/>
 Adds filename to staging area<br/>
 ### `git commit`<br/>
