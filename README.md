@@ -5,7 +5,7 @@ It records and stores project changes then allowing a programmer to reference th
 ### Git Syntax
 git<action>
 ### `git status`<br/>
-Within a Git repository provides current status - current commit, modified files, and new files not tracked by Git.<br/>
+The status of current commit- what is current commit, modified files, new files not tracked by Git.<br/>
 ### `git init`<br/>
 Create or initializes new git project/repository<br/>
 ### `git diff filename`<br/>
