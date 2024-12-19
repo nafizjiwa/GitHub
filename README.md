@@ -7,9 +7,9 @@ It records and stores project changes then allowing a programmer to reference th
     git<action>
 ### Git Project WorkFlow
 #### 3 parts
-`Working Directory`: create/edit/delete file where files are created, edited, deleted, and organized<br/>
-`Staging Area`: lists working directory changes<br/>
-`Repository`: Git stores changes as different versions<br/>
+    `Working Directory`: create/edit/delete file where files are created, edited, deleted, and organized<br/>
+    `Staging Area`: lists working directory changes<br/>
+    `Repository`: Git stores changes as different versions<br/>
 ### `git status`<br/>
 The status of current commit- what is current commit, modified files, new files not tracked by Git.<br/>
 ### `git init`<br/>
