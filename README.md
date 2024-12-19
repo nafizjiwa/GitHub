@@ -2,8 +2,9 @@
 ### `Git` <br/>
 A command line software to track changes made to a project.<br/>
 It records and stores project changes then allowing a programmer to reference them.<br/>
-### Git Syntax
-git<action>
+### Git `Syntax`
+
+    git<action>
 ### Git Project WorkFlow
 #### 3 parts
 `Working Directory`: create/edit/delete file where files are created, edited, deleted, and organized<br/>
