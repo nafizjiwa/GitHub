@@ -27,4 +27,4 @@ Stores changes in the staging area<br/>
 `Working Directory`: create/edit/delete file where files are created, edited, deleted, and organized<br/>
 `Staging Area`: lists working directory changes<br/>
 `Repository`: Git stores changes as different versions<br/>
-
+### `git cmmit --amend
