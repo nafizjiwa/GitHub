@@ -22,16 +22,21 @@ Git workflow last step is a commit. A commit stores changes from the staging are
 Adds filename to staging area<br/>
 ### `git commit`<br/>
 Stores changes in the staging area<br/>
-## Git Project WorkFlow
+### Git Project WorkFlow
 #### 3 parts
 `Working Directory`: create/edit/delete file where files are created, edited, deleted, and organized<br/>
 `Staging Area`: lists working directory changes<br/>
 `Repository`: Git stores changes as different versions<br/>
-### `git commit --amend
+### `git commit --amend`
 Allow update of a git
 ### `git add filename_1 filename_2`
 Adds multiple files to staging
 ### `git reset HEAD filename`
+HEAD refers to current commit<br/>
 Removes files from staging
-### `git checkout HEAD filename`
-<br/>
+### `git checkout HEAD <filename>`
+Rolls back changes to last commit
+### `git diff`
+Checks if rollback successful
+if command show empty return then successful
+
